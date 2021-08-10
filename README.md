@@ -1,6 +1,3 @@
-![000480400012](https://user-images.githubusercontent.com/82472092/128789709-a455c4a1-d2c3-4930-9212-b59a7f8c5403.jpeg)
-
-
 ### 👋 Hello I am Mo!
 
 I'm a full-stack web developer with a love for problem solving whether it be algorithms or fixing up cars
