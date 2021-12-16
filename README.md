@@ -24,10 +24,10 @@ I'm a full-stack web developer with a love for problem solving whether it be alg
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![Material UI](https://img.shields.io/badge/materialui-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white)
 
-#### 📫 Connect with me!
+<!-- #### 📫 Connect with me!
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mosesr-kim/)
-[![Instagram](https://img.shields.io/badge/@mkv__mo-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/mkv_mo/)
+[![Instagram](https://img.shields.io/badge/@mkv__mo-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/mkv_mo/) -->
 
 
 <!--
